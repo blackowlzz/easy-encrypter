@@ -1,0 +1,4 @@
+﻿  encrypt.cpp
+C:\Users\Admin\source\repos\encrypt\encrypt\encrypt.cpp(30,32): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Admin\source\repos\encrypt\encrypt\encrypt.cpp(43,31): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  encrypt.vcxproj -> C:\Users\Admin\source\repos\encrypt\x64\Debug\encrypt.exe
